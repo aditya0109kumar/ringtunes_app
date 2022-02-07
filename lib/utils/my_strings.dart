@@ -14,5 +14,6 @@ class MyStrings {
   static const String verify = "Verify";
   static const String resendOtp = "Resend OTP";
   static const String pleaseEnterValidOtp = "Please enter a valid OTP";
+  static const String searchFunTone = "Search FunTone";
 
 }

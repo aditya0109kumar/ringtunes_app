@@ -1,3 +1,4 @@
+import 'package:a_new_project_in_flutter/screens/home_page.dart';
 import 'package:a_new_project_in_flutter/screens/login_page.dart';
 import 'package:animated_splash_screen/animated_splash_screen.dart';
 import 'package:flutter/material.dart';
@@ -7,7 +8,7 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
- final navigatorKey = GlobalKey<NavigatorState>();
+  final navigatorKey = GlobalKey<NavigatorState>();
 
   @override
   Widget build(BuildContext context) {

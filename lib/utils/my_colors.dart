@@ -12,5 +12,8 @@ class MyColors {
   static const Color confirmGreen = Color(0xff99CC00);
   static const Color white = Color(0xffffffff);
   static const Color textDarkGrey = Color(0xff75787B);
+  static const Color black = Color(0xff000000);
+  static const Color searchFieldBg = Color(0xffFAFAFA);
+  static const Color searchFieldBorder = Color(0x97979766);
 
 }
